@@ -1,0 +1,106 @@
+/*----- Global -----*/
+
+
+.bd_backroundcolor {
+    background-color: #231f20;
+    height: auto;
+    width: auto;
+}
+
+
+/*----- Head -----*/
+
+.headerDiv {
+    /*background-color: #231f20;
+
+     */
+    height: 50px;
+    width: 100%;
+}
+
+.bd_logo {
+    height: 50px;
+    width: auto;
+
+}
+
+
+/*----- Body -----*/
+
+/*
+.boddyDiv{
+
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+
+}
+
+ */
+
+
+.headerbild {
+    background-color: red;
+    height: 300px;
+    width: 100%;
+}
+
+.ueberUns {
+    background-color: green;
+    height: 350px;
+    width: 100%;
+}
+
+.services {
+    background-color: yellow;
+    height: 350px;
+    width: 100%;
+}
+
+.stellenangebote {
+    background-color: purple;
+    height: 350px;
+    width: 100%;
+}
+
+
+h1 {
+    margin: 0;
+}
+
+
+/*----- Food -----*/
+
+.foodDiv {
+    /* background-color: green;
+
+     */
+    height: 100px;
+    width: 100%;
+
+}
+
+.flex-container {
+    display: flex;
+    /*background-color: grey;
+
+     */
+}
+
+.flex-item {
+    /*background-color: white;
+
+     */
+    width: 25%;
+    margin: 10px;
+    text-align: left;
+   /* line-height: 100px;
+    font-size: 50px;
+
+    */
+
+}
+ul, li
+{
+    list-style: none;
+}
